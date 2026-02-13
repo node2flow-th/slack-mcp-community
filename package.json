@@ -1,6 +1,6 @@
 {
   "name": "@node2flow/slack-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Slack Web API — send messages, manage channels, search, reactions, files, pins, bookmarks, and more through 38 tools",
   "keywords": [
     "slack",

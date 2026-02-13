@@ -1,5 +1,6 @@
 # Slack MCP Server
 
+[![smithery badge](https://smithery.ai/badge/node2flow/slack)](https://smithery.ai/server/node2flow/slack)
 [![npm version](https://img.shields.io/npm/v/@node2flow/slack-mcp.svg)](https://www.npmjs.com/package/@node2flow/slack-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
