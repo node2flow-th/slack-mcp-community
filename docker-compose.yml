@@ -1,0 +1,9 @@
+services:
+  slack-mcp-community:
+    build: .
+    container_name: slack-mcp-community
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3026:3000"
+    mem_limit: 512m
+    mem_reservation: 256m
